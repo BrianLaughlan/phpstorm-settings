@@ -2,9 +2,9 @@
   <template name="style" value="&lt;link rel=&quot;stylesheet&quot; href=&quot;$path$&quot;&gt;&#10;" toReformat="false" toShortenFQNames="true">
     <variable name="path" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="HTML" value="true" />
       <option name="PHP String Literal" value="false" />
       <option name="PHP Comment" value="false" />
+      <option name="HTML" value="true" />
       <option name="PHP" value="true" />
     </context>
   </template>
