@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern=".ebignore" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
