@@ -21,11 +21,11 @@
       <mask>*.css</mask>
       <mask>*.cs</mask>
       <mask>*.c</mask>
-      <mask>*.</mask>
       <mask>*.phpglobal.jquery.confirmbox</mask>
       <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
+      <mask>*.</mask>
       <mask>*.t</mask>
       <mask>*.ts</mask>
     </recentFileMasks>
