@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
@@ -16,16 +18,16 @@
       <mask>p</mask>
       <mask>php</mask>
       <mask>*.phpglobal.jquery.confirmbox</mask>
-      <mask>*.ph</mask>
       <mask>*.ts</mask>
       <mask>*.t</mask>
+      <mask>*..</mask>
+      <mask>*.p</mask>
+      <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.</mask>
       <mask>*.c</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
-      <mask>*..</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
