@@ -24,15 +24,15 @@
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.td</mask>
-      <mask>*.p</mask>
-      <mask>*.php</mask>
       <mask>*.ph</mask>
-      <mask>*.c</mask>
       <mask>*.ts</mask>
       <mask>*.t</mask>
-      <mask>*.</mask>
-      <mask>*.cs</mask>
       <mask>*.css</mask>
+      <mask>*.cs</mask>
+      <mask>*.c</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
