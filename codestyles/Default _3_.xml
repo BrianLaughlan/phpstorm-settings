@@ -2,6 +2,7 @@
   <option name="RIGHT_MARGIN" value="1000" />
   <TypeScriptCodeStyleSettings>
     <option name="SPACE_AFTER_TYPE_COLON" value="false" />
+    <option name="SPACES_WITHIN_UNION_TYPES" value="false" />
   </TypeScriptCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
