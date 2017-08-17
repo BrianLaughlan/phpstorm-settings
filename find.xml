@@ -26,13 +26,13 @@
       <mask>!*.js</mask>
       <mask>*.jt</mask>
       <mask>*.td</mask>
-      <mask>*.php</mask>
-      <mask>*.ph</mask>
-      <mask>*.p</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*</mask>
       <mask>*.</mask>
+      <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
       <mask>*.t</mask>
       <mask>*.ts</mask>
     </recentFileMasks>
