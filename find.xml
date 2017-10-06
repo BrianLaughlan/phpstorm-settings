@@ -5,7 +5,6 @@
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.phpglobal.jquery.confirmbox</mask>
       <mask>*..</mask>
       <mask>-*.css</mask>
       <mask>!.css</mask>
@@ -29,12 +28,13 @@
       <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
-      <mask>*.css</mask>
-      <mask>*.cs</mask>
       <mask>*.c</mask>
       <mask>*.</mask>
-      <mask>*.t</mask>
       <mask>*.ts</mask>
+      <mask>*.t</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
+      <mask>*.css2</mask>
     </recentFileMasks>
   </component>
 </application>
