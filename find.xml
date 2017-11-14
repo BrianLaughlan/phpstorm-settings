@@ -4,7 +4,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.css" />
+    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
       <mask>!.css</mask>
       <mask>!*.css</mask>
@@ -29,13 +29,13 @@
       <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
+      <mask>*.tcs</mask>
+      <mask>*.tcss</mask>
+      <mask>*.css</mask>
       <mask>*.cs</mask>
       <mask>*.c</mask>
       <mask>*.t</mask>
       <mask>*.ts</mask>
-      <mask>*.tcs</mask>
-      <mask>*.tcss</mask>
-      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>
