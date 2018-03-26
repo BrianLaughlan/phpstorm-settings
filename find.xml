@@ -36,8 +36,8 @@
       <mask>*.td</mask>
       <mask>*.ts</mask>
       <mask>*css</mask>
-      <mask>*ts</mask>
       <mask>*php</mask>
+      <mask>*ts</mask>
     </recentFileMasks>
   </component>
 </application>
