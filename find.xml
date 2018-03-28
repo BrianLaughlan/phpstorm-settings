@@ -35,9 +35,9 @@
       <mask>*.t</mask>
       <mask>*.td</mask>
       <mask>*.ts</mask>
-      <mask>*css</mask>
       <mask>*php</mask>
       <mask>*ts</mask>
+      <mask>*css</mask>
     </recentFileMasks>
   </component>
 </application>
