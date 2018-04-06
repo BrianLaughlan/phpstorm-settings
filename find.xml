@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.ts" />
     <recentFileMasks>
       <mask>*.jt</mask>
       <mask>*.css2</mask>
@@ -25,11 +26,9 @@
       <mask>0</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.css</mask>
       <mask>*.cs</mask>
       <mask>*.c</mask>
       <mask>*.</mask>
-      <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
       <mask>*.t</mask>
@@ -37,6 +36,8 @@
       <mask>*css</mask>
       <mask>*ts</mask>
       <mask>*php</mask>
+      <mask>*.css</mask>
+      <mask>*.php</mask>
       <mask>*.ts</mask>
     </recentFileMasks>
   </component>
