@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="customScope" value="Directory '...\src\resources\js\account\surveys [esc-redesign]'" />
+    <option name="defaultScopeName" value="Directory '...\src\resources\js\account\surveys [esc-redesign]'" />
+    <option name="SEARCH_SCOPE" value="Directory '...\src\resources\js\account\surveys [esc-redesign]'" />
     <recentFileMasks>
       <mask>*.jt</mask>
       <mask>*.css2</mask>
