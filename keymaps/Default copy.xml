@@ -5,6 +5,14 @@
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl 7" />
   </action>
+  <action id="Console.TableResult.NextPage" />
+  <action id="Console.TableResult.PreviousPage" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
   <action id="GotoBookmark7" />
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
@@ -14,6 +22,8 @@
   </action>
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
+  <action id="NextOccurence" />
+  <action id="PreviousOccurence" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
   <action id="SwitchApply">
