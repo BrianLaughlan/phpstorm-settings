@@ -2,38 +2,19 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.jt</mask>
-      <mask>*.css2</mask>
-      <mask>*.tcs</mask>
-      <mask>*.tcss</mask>
-      <mask>*</mask>
-      <mask>*ph</mask>
-      <mask>*p</mask>
-      <mask>*t</mask>
-      <mask>p</mask>
-      <mask>php</mask>
-      <mask>*.phphp</mask>
-      <mask>*.phpp</mask>
-      <mask>*.tcc</mask>
-      <mask>*.tc</mask>
-      <mask>0</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.cs</mask>
-      <mask>*.c</mask>
-      <mask>*.</mask>
-      <mask>*.ph</mask>
-      <mask>*.p</mask>
-      <mask>*.t</mask>
-      <mask>*.td</mask>
-      <mask>*css</mask>
-      <mask>*.css</mask>
-      <mask>*.php</mask>
-      <mask>*.ts</mask>
-      <mask>*ts</mask>
-      <mask>*php</mask>
-    </recentFileMasks>
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.php</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
