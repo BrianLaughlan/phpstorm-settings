@@ -1,0 +1,5 @@
+<templateSet group="PHP">
+  <template name="trans" value="&lt;p&gt;&lt;?= __('$TEXT$') ?&gt;&lt;/p&gt;" toReformat="false" toShortenFQNames="true">
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>
