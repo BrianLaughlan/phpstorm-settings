@@ -1,5 +1,10 @@
 <templateSet group="PHP">
-  <template name="trans" value="&lt;p&gt;&lt;?= __('$TEXT$') ?&gt;&lt;/p&gt;" description="" toReformat="false" toShortenFQNames="true">
+  <template name="__" value="&lt;?= __('$TEXT$') ?&gt;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HAML" value="true" />
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+    </context>
   </template>
 </templateSet>
